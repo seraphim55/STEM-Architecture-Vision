@@ -1,0 +1,11 @@
+{
+    "dataset_dir": "dataset",
+    "output_dir": "output",
+    "csv_report": "output/metrics_report.csv",
+    "plot_report": "output/metrics_telemetry_plots.png",
+    "median_size": 3,
+    "gaussian": {
+        "size": 5,
+        "sigma": 1.4
+    }
+}
